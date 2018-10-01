@@ -1,0 +1,4 @@
+1. As a user, I want to use a platform, so that I can find recommended tech electives I would enjoy.
+2. As a student, I want to find tech electives that fit my interests, so that I can have an easier time choosing classes.
+3. As a student, I want to use a platform that will give me recommendations on tech electives, so that I’ll have an easier time choosing and finding classes.
+

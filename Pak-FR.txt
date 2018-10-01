@@ -1,0 +1,4 @@
+1. The system shall rank recommended courses based on the questionnaire results.
+2. The system shall only display courses that the user has completed prerequisites for.
+3. The system shall only provide Cal Poly courses.
+
