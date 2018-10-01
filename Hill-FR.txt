@@ -1,0 +1,3 @@
+The system shall provide two different font sizes.
+The system shall provide the number of remaining questions.
+The system shall provide an error message if app crashes.

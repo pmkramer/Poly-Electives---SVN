@@ -1,0 +1,3 @@
+As a user, I want an error message displayed when the app crashes, so that I can exit or refresh the app.
+As a user with poor eyesight, I want two different font size options, so that I can enlarge the text to increase readability.
+As a user, I want a confirmation page, so that I can see all my responses before I submit.
