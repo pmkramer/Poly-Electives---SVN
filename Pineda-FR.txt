@@ -1,0 +1,3 @@
+The system shall provide an option to retake the questionnaire.
+The system shall provide class quarter availability.
+The system shall provide a tutorial page for the questionnaire.

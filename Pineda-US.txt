@@ -1,0 +1,3 @@
+As a user, I want the option to retake the questionnaire, so that I can get other recommendations.
+As a user, I want the option to give feedback, so that I can express my like or dislike for the recommendations.
+As a user, I want the number of remaining questions displayed, so that I know how many more questions I need to answer. 
