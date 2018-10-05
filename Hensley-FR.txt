@@ -1,0 +1,5 @@
+The system shall provide tech-elective summaries*. 
+The system shall provide predefined answers. 
+The system shall allow retaking the questionnaire.
+
+* summary: 2 - 3 sentence description

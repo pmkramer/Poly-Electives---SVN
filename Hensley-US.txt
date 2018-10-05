@@ -1,0 +1,3 @@
+As a prospective student, I want to view tech electives by major, so I can choose which computing major is best for my interests.
+As a user, I would like to record classes I have taken, so I can check if I meet certain prerequisites.
+As a user I would like to categorize tech electives associated with certain computing majors, so I can choose which computing major is best for the tech electives I am interested in. (I’m assuming this project will just be CSC)
